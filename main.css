@@ -1,0 +1,38 @@
+body {
+  font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+}
+
+.programa {
+  width: 50%;
+  padding: 0.25in 0.5in;
+  font-size: 9px;
+}
+
+.curriculums {
+  font-size: 9px;
+  float:right;
+  width: 50%;
+  padding: 0.25in 0.5in 0.25in 0;
+  vertical-align: top;
+}
+
+.curriculums  label {
+  font-weight: bold;
+}
+
+
+
+.obra {
+  font-weight: bold;
+  margin-bottom: 0.25in;
+}
+
+.compositor {
+  float: right;
+}
+
+.movimientos {
+  text-align: center;
+  font-style: italic;
+  font-weight: normal;
+}
